@@ -1,0 +1,23 @@
+$background-color: #007bb6;
+$foreground-color: #fff;
+
+.widget-linkedin-profile {
+  background-color: $background-color;
+  color: $foreground-color;
+
+  .image {
+    float: left;
+    margin-left: 30px;
+
+    img {
+      -webkit-border-radius: 50em;
+      -moz-border-radius: 50em;
+      border-radius: 50em;
+    }
+  }
+}
+
+  .updated-at {
+    color: $foreground-color;
+//    opacity: 0.8;
+  }
