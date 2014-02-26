@@ -1,5 +1,5 @@
 # LinkedInUser class and the file name convention are a mismatch
-class Dashing.LinkedInUser extends Dashing.Widget
+class Dashing.LinkedinProfile extends Dashing.Widget
   ready: ->
     # This is fired when the widget is done being rendered
 
